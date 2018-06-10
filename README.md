@@ -1,6 +1,6 @@
 # 2018 Django Cong Conference
 
-In this repository, you will find the slides and materials used by Samuel Pacccoud, in his talk and live demo for France Université Numérique during the 2018 edition of the [Django Cong conference](https://con.openedx.org/) in Lille.
+In this repository, you will find the slides and materials used by Samuel Pacccoud, in his talk and live demo for France Université Numérique during the 2018 edition of the [Django Cong conference](http://rencontres.django-fr.org/2018/) in Lille.
 
 ### Deploying Django to OpenShift with Ansible
 
